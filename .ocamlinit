@@ -1,0 +1,9 @@
+#directory "_build";;
+#require "str";;
+#require "qcheck";;
+#load_rec "tree.cmo";;
+#load_rec "tokenize.cmo";;
+#load_rec "translator.cmo";;
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
